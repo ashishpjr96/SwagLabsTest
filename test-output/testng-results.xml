@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-13T16:18:10 IST" name="Default suite" finished-at="2021-06-13T16:18:23 IST" duration-ms="12339">
+    <groups>
+    </groups>
+    <test started-at="2021-06-13T16:18:10 IST" name="Default test" finished-at="2021-06-13T16:18:23 IST" duration-ms="12339">
+      <class name="com.swaglabs.qa.testcases.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.swaglabs.qa.testcases.LoginPageTest@4de4b452]" started-at="2021-06-13T16:18:11 IST" name="setUp" finished-at="2021-06-13T16:18:15 IST" duration-ms="4598" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyTitle()[pri:1, instance:com.swaglabs.qa.testcases.LoginPageTest@4de4b452]" started-at="2021-06-13T16:18:15 IST" name="verifyTitle" finished-at="2021-06-13T16:18:15 IST" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.swaglabs.qa.testcases.LoginPageTest@4de4b452]" started-at="2021-06-13T16:18:15 IST" name="tearDown" finished-at="2021-06-13T16:18:15 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.swaglabs.qa.testcases.LoginPageTest@4de4b452]" started-at="2021-06-13T16:18:15 IST" name="setUp" finished-at="2021-06-13T16:18:22 IST" duration-ms="7086" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="login()[pri:2, instance:com.swaglabs.qa.testcases.LoginPageTest@4de4b452]" started-at="2021-06-13T16:18:22 IST" name="login" finished-at="2021-06-13T16:18:23 IST" duration-ms="542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.swaglabs.qa.testcases.LoginPageTest@4de4b452]" started-at="2021-06-13T16:18:23 IST" name="tearDown" finished-at="2021-06-13T16:18:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.swaglabs.qa.testcases.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
